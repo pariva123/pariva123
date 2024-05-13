@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pariva123&label=Profile%20views&color=0e75b6&style=flat" alt="pariva123" /> </p>
 
-- 🔭 I’m currently working on **Bargain Hunter(provides accomodation and exhanges items)**
+- 🔭 I’m currently working on **Bargain Hunter(provides accomodation and exhanges items to customers built with React Js(Front End),Spring Boot Java(Back End) and Database(MongoDB))**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **MEAN Stack(MEAN, Express, Angular and Node JS)**
+- 💬 Ask me about **MEAN Stack(Mongo DB, Express, Angular and Node JS)**
 
 - 📫 How to reach me **pl95534n@pace.edu**
 
