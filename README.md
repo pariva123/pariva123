@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pariva123&label=Profile%20views&color=0e75b6&style=flat" alt="pariva123" /> </p>
 <img align="right" alt="Coding" width="400" src="https://allhealthcarecareers.com/wp-content/uploads/2020/10/Nurse-Thinking.png">
-- 🔭 I’m currently working on Bargain Hunter(provides accomodation and exhanges items to customers built with React Js(Front End),Spring Boot Java(Back End) and Database(MongoDB))
+- 🔭 I’m currently working on <b>Bargain Hunter(provides accomodation and exhanges items to customers built with React Js(Front End),Spring Boot Java(Back End) and Database(MongoDB))</b>
 
 - 🌱 I’m currently learning **Flutter**
 
