@@ -1,3 +1,4 @@
+[![three-js.jpg](https://i.postimg.cc/bwccbkmq/three-js.jpg)](https://postimg.cc/RNRDx6rY)
 <h1 align="center">Welcome to My GitHub👋, In the realm of code, My name is Pariva "A Computer Engineer"</h1>
 <h3 align="center">👨‍💻Enthusiastically dedicated to frontend development and web engineering🎓, I've crafted my expertise as a Software Engineer at Shoptaki. Hailing from India's rich tech heritage, I now thrive as an Computer Engineer based in the vibrant streets of New York.</h3>
 
