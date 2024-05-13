@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub👋, In the realm of code, My name is Pariva "A Software Engineer"</h1>
+<h1 align="center">Welcome to My GitHub👋, In the realm of code, My name is Pariva "A Computer Engineer"</h1>
 <h3 align="center">👨‍💻Enthusiastically dedicated to frontend development and web engineering🎓, I've crafted my expertise as a Software Engineer at Shoptaki. Hailing from India's rich tech heritage, I now thrive as an Computer Engineer based in the vibrant streets of New York.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pariva123&label=Profile%20views&color=0e75b6&style=flat" alt="pariva123" /> </p>
